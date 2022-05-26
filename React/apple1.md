@@ -1,10 +1,5 @@
 - JSX
 
-```javascript
-fucntion App() {
-  return hi
-}
-```
 
 
 1. class넣을때는 무조건 className을 쓴다
