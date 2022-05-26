@@ -1,4 +1,4 @@
-<h1> JSX <h1>
+- JSX
 
 ```javascript
 fucntion App() {
@@ -8,15 +8,15 @@ fucntion App() {
 
 
 1. class넣을때는 무조건 className을 쓴다
-  
-'''javascript  
+ 
+```javascript  
   <div className="App"> 
-'''
+```
     
 
 2. 변수넣을땐 {중괄호} 
     
-'''javascript 
+```javascript 
 function App() {
     
     let post = '가제'
@@ -27,6 +27,7 @@ function App() {
     <div>
   );  
 }
+```
       
       
 3. style 넣을땐 style={}
