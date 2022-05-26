@@ -23,7 +23,7 @@ function App() {
     
   return (
     <div>
-    <h3>{pst}<h3>
+    <h3>{post}<h3>
     <div>
   );  
 }
